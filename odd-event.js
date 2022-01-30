@@ -7,7 +7,7 @@ function odd(num) {
     return false;
 }
 
-const myOdd = 51;
+const myOdd = 27;
 const total = odd(myOdd);
 console.log('This number of odd :', total);
 
@@ -21,6 +21,6 @@ function even(num1){
     return false;
 }
 
-const myEvent=51;
+const myEvent=26;
 const totals=even(myEvent);
 console.log('This a event number',totals);
