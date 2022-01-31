@@ -1,5 +1,3 @@
-
-
 //farenheit to celcius conver
 
 function  farenheitCelcius( num){
@@ -7,6 +5,6 @@ function  farenheitCelcius( num){
     return farenheit;
 }
 
-const farenNum=1;
-const total =farenheitCelcius(farenNum);
+
+const total =farenheitCelcius(1);
 console.log('farenheit F :',total);
